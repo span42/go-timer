@@ -8,7 +8,7 @@ Details
 
 Usage
 -----
-​```go
+```go
 package main
 
 import (
@@ -30,7 +30,7 @@ func lpFunc(t *timer.Timer, lpArg ...interface{}) {
 	t.Start(3000)
 	fmt.Println(lpArg)
 }
-​```
+```
 
 Possible Future Work
 -------------------- 
